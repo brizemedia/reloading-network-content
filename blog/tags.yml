@@ -1,0 +1,10 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+youtube:
+  label: YouTube
+  permalink: /youtube
+  description: All things YouTube
+
