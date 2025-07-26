@@ -2,12 +2,12 @@
 title: Annealing Tools
 ---
 
-# Annealing Tools
+# Annealing Tools #
 
-## Flame Annealers
+## Flame Annealers ##
 
 ### Ugly Annealer ###
 
-## Induction Annealers
+## Induction Annealers ##
 
 ### Amp (Annealing made perfect) ###

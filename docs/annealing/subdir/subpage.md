@@ -1,6 +1,0 @@
----
-title: sub page
----
-
-# subpage
-
